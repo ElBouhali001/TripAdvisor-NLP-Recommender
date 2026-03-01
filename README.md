@@ -1,6 +1,6 @@
 # TripAdvisor NLP Recommender System
 
-**Authors:** Houssam ElMouedden & [Partner's Name]
+**Authors:** Houssam ElMouedden & Lucas PIEL
 **Course:** M1 Data & AI, ESILV (Paris)
 
 ## Project Overview
